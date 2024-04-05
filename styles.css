@@ -22,7 +22,7 @@ body {
 }
 .postcard-header h1 {
 	width: 400px;
-	margin: none;
+	margin: 0px;
 	margin-top: 2px;
 	margin-left: 5px;
 }
