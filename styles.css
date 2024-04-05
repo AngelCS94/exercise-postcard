@@ -22,9 +22,9 @@ body {
 }
 .postcard-header h1 {
 	width: 400px;
-	margin: 0px;
+	margin: none;
 	margin-top: 2px;
-	margin-left: 2px;
+	margin-left: 5px;
 }
 .postcard-body {
 	display: flex;
